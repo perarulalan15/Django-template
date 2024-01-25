@@ -9,7 +9,7 @@ This repository contains the Django template for machine learning projects. It s
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/perarulalan15/django-template.git
+   git clone https://github.com/perarulalan15/Django-template.git
    ```
 
 2. Install dependencies:
